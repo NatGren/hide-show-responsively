@@ -49,7 +49,8 @@ img:nth-child(4) {
 @media only screen and (min-width: 38em) {
 
   img {
-    width: 50%;
+    width: 30%;
+    display: inline-block;
   }
 
   img:first-child {
